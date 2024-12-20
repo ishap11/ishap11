@@ -18,28 +18,29 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/isha-prajapati-072b35251/"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Isha LinkedIn" height='20' width='90'/>
   </a>
   <a href="https://github.com/ishap11"> 
-    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
+    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Isha GitHub" height='20' width='80'/>  
   </a>
 </p>
 
 <div align="center" width="50%">
   <p> Coding is my love language :) </p>
-  <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+<!--   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/> -->
+	<img src="" alt="gif"  width="60%"/>
   <br>
-  <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
+<!--   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p> -->
   <!-- Streak feature -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyag309&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyag309&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p> -->
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
+<!--   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananyag309&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananyag309&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananyag309&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyag309&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyag309&theme=github_dark" /> -->
 </div>
 
 <br>
@@ -110,25 +111,25 @@ Here are some ideas to get you started:
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" /> -->
-              <img src="" alt="Explorer Badge" width="80" />
+              <img src="https://github.com/ishap11/ishap11/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" /> -->
-               <img src="" alt="Adventurer Badge" width="80" />
+               <img src="https://github.com/ishap11/ishap11/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" /> -->
-               <img src="" alt="Champion Badge" width="80" />
+               <img src="https://github.com/ishap11/ishap11/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" /> -->
-              <img src="" alt="Trailblazer Badge" width="80" />
+              <img src="https://github.com/ishap11/ishap11/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
@@ -136,7 +137,7 @@ Here are some ideas to get you started:
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" /> -->
-              <img src="" width="80" />
+              <img src="https://github.com/ishap11/ishap11/blob/main/Summit%20Seeker%20Badge.png" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
@@ -151,14 +152,14 @@ Here are some ideas to get you started:
               <strong>Conqueror Badge</strong>
             </td> -->
             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <img src="https://github.com/ishap11/ishap11/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" width="80" />
               <br>
               <strong>API Student Expert</strong>
               <br>
               <span style="font-size: 12px; color: #777777;">Postman</span>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <img src="" width="80" />
               <br>
               <strong>GSSoC-Ext'24 - Top 50 Mentor</strong>
             </td>
