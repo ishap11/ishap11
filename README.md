@@ -159,7 +159,7 @@ Here are some ideas to get you started:
               <span style="font-size: 12px; color: #777777;">Postman</span>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="" width="80" />
+              <img src="https://github.com/ishap11/ishap11/blob/main/Top_50_Mentors!.jpeg" width="80" />
               <br>
               <strong>GSSoC-Ext'24 - Top 50 Mentor</strong>
             </td>
