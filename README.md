@@ -36,10 +36,8 @@ Here are some ideas to get you started:
   <!-- GitHub Streak Stats -->
 <!-- GitHub Streak Stats -->
 <!-- GitHub Streak Stats (Reliable Mirror) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
-       alt="Isha's GitHub Streak" />
-</p>
+![Isha's GitHub Streak](https://streak-stats.demolab.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
+
 
 
 
