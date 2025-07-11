@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <br>
 <!--   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p> -->
   <!-- Streak feature -->
-<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyag309&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Isha's GitHub Streak" /></p>
 </div>
 
 <div align="center">
