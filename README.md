@@ -33,10 +33,14 @@ Here are some ideas to get you started:
   <br>
 <!--   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p> -->
   <!-- Streak feature -->
-  <!-- GitHub Streak Stats -->
+ 
 <!-- GitHub Streak Stats -->
 <!-- GitHub Streak Stats (Reliable Mirror) -->
-![Isha's GitHub Streak](https://streak-stats.demolab.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
+       alt="Isha's GitHub Streak" />
+</p>
+
 
 
 
