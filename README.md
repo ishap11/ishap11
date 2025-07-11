@@ -35,10 +35,12 @@ Here are some ideas to get you started:
   <!-- Streak feature -->
   <!-- GitHub Streak Stats -->
 <!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Reliable Mirror) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
+  <img src="https://streak-stats.demolab.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
        alt="Isha's GitHub Streak" />
 </p>
+
 
 
 
