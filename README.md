@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 <!--   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p> -->
   <!-- Streak feature -->
   <!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishap11&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
        alt="Isha's GitHub Streak" />
 </p>
+
 
 
 <div align="center">
