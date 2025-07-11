@@ -99,7 +99,7 @@ Here are some ideas to get you started:
         <span style="font-size: 12px; color: #777777;">
 	  Out of 17,000+ participants<br>
           <!-- PRs Merged: 154<br> -->
-          Total Badges: 8<br>
+          Total Badges: 7<br>
           <!-- Total Score: 3020<br> -->
         </span>
         <span style="font-size: 14px; color: #555555;">🏅 Top 50 Mentor </span>
@@ -218,7 +218,7 @@ Here are some ideas to get you started:
 </a> -->
 <!-- Connect with Me Section -->
 
-<h2 align="center">Connect with Me</h2>
+ <!--<h2 align="center">Connect with Me</h2>
 
 <a href="https://www.linkedin.com/in/isha-prajapati-072b35251/" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
@@ -226,6 +226,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ishap11" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
-</a>
+</a>  -->
 
 <br>
